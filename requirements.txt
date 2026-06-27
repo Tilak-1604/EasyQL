@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+langchain>=0.1.12
+langchain-community>=0.0.28
+langchain-core>=0.1.33
+langchain-groq>=0.1.0
+SQLAlchemy>=2.0.28
+pymysql>=1.1.0
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.1
